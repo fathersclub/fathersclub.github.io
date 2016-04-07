@@ -4,7 +4,7 @@ layout: post
 #event information
 title:  "Уборка речки"
 cover: "http://news.mspravka.info/wp-content/uploads/2013/11/IMG_9522_0-1024x682.jpg"
-date:   2016-04-22
+date:   2016-04-23
 start_time: "09:00"
 end_time: "18:00"
 
