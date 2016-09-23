@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title: "Встреча с гостями из Канады"
-cover: "http://img.1188.lv/companies/gallery/e8130cae4710ba89a31041cf549e5505.jpg"
+cover: "https://i.ss.lv/images/usr/1/1/krvsivoe-oeero-325.fbig.jpg"
 date: 2016-09-24
 start_time: "12:00"
 end_time: "20:00"
