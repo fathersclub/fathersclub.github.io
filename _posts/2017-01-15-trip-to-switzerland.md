@@ -17,3 +17,13 @@ organiser: "Ruslan Krainaj"
 Планируется поездка с Швейцарию. Детали поездки (расценки, опции "отдыха" и прочее) планируется опубликовать в скором будущем. 
 
 Просьба сообщить Руслану о желании/интересе о поездке.
+
+ОБНОВЛЕНО:
+
+{::nomarkdown}
+
+<video width="700" controls Autoplay=autoplay>
+  <source src="/images/2017-02-01-switzerland.mp4" type="video/mp4">
+</video>
+
+{:/}
