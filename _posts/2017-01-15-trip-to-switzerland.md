@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title: "Поездка в Швейцарию"
-cover: "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/10614165_1463759577218709_4693913993380723619_n.jpg?oh=2a44ead66ac2e3d2d29b32001ba37886&oe=5841EBAE"
+cover: "http://img.myswitzerland.com/658022/573"
 date: 2017-01-15
 start_time: "00:00"
 end_time: "00:00"
